@@ -1,5 +1,5 @@
-import functools
-import operator
+import functools # allows higher order functions(functions that act on or return other functions)
+import operator # allows usage of operator functions
 
 def factorial(num):
 	numbers = []
